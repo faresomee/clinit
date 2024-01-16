@@ -1,1 +1,2 @@
 # clinit
+git log
